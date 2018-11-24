@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="website/favicon.ico" type="image/x-icon">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="website/materialize/css/materialize.min.css" media="screen,projection"/>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="website/styles.css">
+    <title>Harry Potter</title>
+</head>
+
+<body class="dark">
+<!--<section class="black">-->
+    <!--<div class="carousel carousel-slider" data-indicators="true" style="min-height: 100vh"  id="pages">-->
+        <!--&lt;!&ndash;<div class="carousel-fixed-item">&ndash;&gt;-->
+            <!--&lt;!&ndash;<div class="container">&ndash;&gt;-->
+                <!--&lt;!&ndash;<h1 class="white-text">Materialize Carousel</h1>&ndash;&gt;-->
+                <!--&lt;!&ndash;<a class="btn waves-effect white grey-text darken-text-2" href="https://codepen.io/collection/nbBqgY/" target="_blank">button</a>&ndash;&gt;-->
+            <!--&lt;!&ndash;</div>&ndash;&gt;-->
+        <!--&lt;!&ndash;</div>&ndash;&gt;-->
+        <!--<div class="carousel-item book-1 lighten-2 white-text" href="#one!">-->
+            <!--<div class="container" >-->
+                <!--<h2 class="center">Philosopher's Stone</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-2 darken-2 white-text" href="#two!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">Chamber of Secrets</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-3 white-text" href="#three!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">Prisoner of Azkaban</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-4 white-text" href="#four!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">Goblet of Fire</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-5 white-text" href="#five!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">Order of the Phoenix</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-6 white-text" href="#six!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">Half-Blood Prince</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="carousel-item book-7 white-text" href="#seven!">-->
+            <!--<div class="container">-->
+                <!--<h2 class="center">The Deadly Hallows</h2>-->
+                <!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</section>-->
+
+<!--<div class="dark">-->
+    <!--<div class="" style="min-height: 100vh">-->
+        <!--<div class="section">-->
+
+            <!--&lt;!&ndash;   Icon Section   &ndash;&gt;-->
+            <!--<div class="">-->
+
+                <!--<div class="carousel" id="cloud">-->
+                    <!--<a class="carousel-item" href="#one!"><p class="center white-text">Philosopher'S Stone</p></a>-->
+                    <!--<a class="carousel-item" href="#two!"><p class="center white-text">Chamber of Secrets</p></a>-->
+                    <!--<a class="carousel-item" href="#three!"><p class="center white-text">Prisoner of Azkaban</p></a>-->
+                    <!--<a class="carousel-item" href="#four!"><p class="center white-text">Goblet of Fire</p></a>-->
+                    <!--<a class="carousel-item" href="#five!"><p class="center white-text">Order of the Phoenix</p></a>-->
+                    <!--<a class="carousel-item" href="#six!"><p class="center white-text" >Half Blood Prince</p></a>-->
+                    <!--<a class="carousel-item" href="#Seven!"><p class="center white-text">Deadly Hallows</p></a>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+<div class="row margin-bottom-0">
+    <div class="col hide-on-small-only m2">
+        <div class="fixed-position section">
+            <div><img src="website/images/HP_Logo_White.png" width="100"><span style="margin-bottom: 20px">Social Graphs</span></div>
+            <ul class="section table-of-contents">
+                <li><a href="#cloud-all">Wordcloud - All books</a></li>
+                <li><a href="#book1">Philosopher's Stone</a></li>
+                <li><a href="#book2">Chamber of Secrets</a></li>
+                <li><a href="#book3">Prisoner of Azkaban</a></li>
+                <li><a href="#book4">Goblet of Fire</a></li>
+                <li><a href="#book5">Order of the Phoenix</a></li>
+                <li><a href="#book6">Half Blood Prince</a></li>
+                <li><a href="#book7">Deadly Hallows</a><li>
+            </ul>
+        </div>
+    </div>
+    <div class="col s12 m10 no-padding">
+        <div id="cloud-all" class="section scrollspy full-screen">
+            <div class="section-wrapper section">
+                <div class="carousel carousel-slider wordcloud" data-indicators="true" id="pages" style="min-height: 400px">
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 1</p>
+                        <img src="website/images/owl.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 2</p>
+                        <img src="website/images/basilisk.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 3</p>
+                        <img src="website/images/patronus.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 4</p>
+                        <img src="website/images/goblet.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 5</p>
+                        <img src="website/images/phoenix.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 6</p>
+                        <img src="website/images/cauldron.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <p>Book 7</p>
+                        <img src="website/images/hallows.png" class="wordcloud-img">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="book1" class="section scrollspy full-screen book-1">
+            <div class="section-wrapper">
+                <h2 class="center">Philosopher's Stone</h2>
+                <div class="carousel carousel-slider wordcloud" data-indicators="true" style="min-height: 85vh">
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <img src="website/images/owl.png" class="wordcloud-img">
+                    </div>
+                    <div class="carousel-item lighten-2 white-text wordcloud-img-container">
+                        <img src="website/images/owl.png" class="wordcloud-img">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="book2" class="section scrollspy full-screen book-2">
+            <div class="section-wrapper">
+                <h2 class="center">Chamber of Secrets</h2>
+                <p>Content</p>
+            </div>
+        </div>
+
+        <div id="book3" class="section scrollspy full-screen book-3">
+            <div class="section-wrapper">
+                <h2 class="center">Prisoner of Azkaban</h2>
+                <p>Content</p>
+            </div>
+        </div>
+        <div id="book4" class="section scrollspy full-screen book-4">
+            <div class="section-wrapper">
+                <h2 class="center">Goblet of Fire</h2>
+                <p>Content</p>
+            </div>
+        </div>
+        <div id="book5" class="section scrollspy full-screen book-5">
+            <div class="section-wrapper">
+                <h2 class="center">Order of the Phoenix</h2>
+                <p>Content</p>
+            </div>
+        </div>
+        <div id="book6" class="section scrollspy full-screen book-6">
+            <div class="section-wrapper">
+                <h2 class="center">Half Blood Prince</h2>
+                <p>Content</p>
+            </div>
+        </div>
+        <div id="book7" class="section scrollspy full-screen book-7">
+            <div class="section-wrapper">
+                <h2 class="center">Deadly Hallows</h2>
+                <p>Content</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--JavaScript at end of body for optimized loading-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
+<script type="text/javascript" src="website/materialize/js/materialize.min.js"></script>
+<script src="website/main.js"></script>
+</body>
+</html>

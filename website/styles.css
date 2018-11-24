@@ -1,0 +1,105 @@
+html, body {
+    height: 100%;
+}
+
+.dark{
+    background: #313131;
+    border-color: #313131;
+}
+
+body.dark{
+    color: white;
+}
+
+.dark .table-of-contents li a{
+    color: white;
+}
+
+.book-1{
+    background-color: #8a452b;
+}
+.book-2{
+    background-color: #696f64;
+}
+.book-3{
+    background-color: #1c2528;
+}
+.book-4{
+    background-color: #e1ceab;
+}
+.book-5{
+    background-color: #5a3441;
+}
+.book-6{
+    background-color: #1a252a;
+}
+.book-7{
+    background-color: #505153;
+}
+
+.fill-screen{
+    min-height: 100vh;
+}
+
+.sticky{
+    position: sticky;
+    top: 0;
+}
+
+.margin-top-0{
+   margin-top: 0;
+}
+
+.margin-bottom-0{
+    margin-bottom: 0;
+}
+
+.full-screen{
+    min-height: 100vh;
+}
+
+.table-of-contents ul li{
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.fixed-position{
+    position: fixed;
+}
+
+.section-wrapper{
+    margin: 0 3em;
+}
+
+.top-nav{
+    height: 60px;
+    min-height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wordcloud-img{
+    height: 70vh;
+    width: auto;
+    padding-bottom: 50px;
+}
+.carousel .carousel-item>.wordcloud-img {
+    width: auto !important;
+}
+
+.wordcloud-img-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.wordcloud-img-container p{
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
