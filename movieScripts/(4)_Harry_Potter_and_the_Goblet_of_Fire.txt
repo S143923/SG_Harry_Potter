@@ -380,11 +380,11 @@ Stop! That's my son.
 Arthur and others approach.
 ARTHUR
 Ron, Harry, Hermione are you alright?
-BARTY
+BARTY SR
 Which of you conjured this?
 ARTHUR
 You can't possibly..
-BARTY
+BARTY SR
 Do not lie! You have been discovered
 at the scene of the crime!
 Crime?
@@ -392,7 +392,7 @@ Crime?
 HARRY
 
 ARTHUR
-Barty, they're just kids.
+BARTY SR, they're just kids.
 What crime?
 
 HARRY
@@ -403,11 +403,11 @@ HARRY
 Those people tonight, in the masks...
 they're his too aren't they? they're
 his followers.
-BARTY
+BARTY SR
 Follow me.
 HARRY
 There was a man. Before. There.
-BARTY
+BARTY SR
 All of you, this way.
 Harry, who?
 
@@ -625,7 +625,7 @@ HARRY
 I don't know but I don't think it's
 Pumpkin Juice.
 
-BARTY
+BARTY SR
 After much deliberation the ministry
 has concluded that for their own safety
 no student under the age of seventeen
@@ -968,8 +968,8 @@ It was once my job to think as dark
 wizards do Karkaroff perhaps you remember?
 DUMBLEDORE
 That doesn't help Alastor. Leave this
-to you Barty.
-BARTY
+to you BARTY SR.
+BARTY SR
 The rules are absolute, the goblet of
 fire constitutes a binding magical contract.
 Mr Potter has no choice, he is as of
@@ -987,9 +987,9 @@ MCGONAGALL
 Put an end to it. Don't let Potter compete.
 
 DUMBLEDORE
-You heard Barty the rules are clear.
+You heard BARTY SR the rules are clear.
 MCGONAGALL
-Well the devil with Barty and his rules.
+Well the devil with BARTY SR and his rules.
 And since when did you accomodate them...
 SEVERUS
 Master I too find it difficult to believe
@@ -1206,7 +1206,7 @@ SIR
 I'm saying the devils are inside the
 walls. Igor Karkaroff, he was a deatheater.
 And no one, no one stops being a deatheater.
-Then there's Barty Crouch, heart of
+Then there's BARTY SR Crouch, heart of
 stone, sent his OWN son to Azkaban.
 HARRY
 Do you think one of them put my name
@@ -1597,32 +1597,32 @@ What are you doing here Miss Granger?
 HERMIONE
 Oh um.. Sorry I'll just go.
 DUMBLEDORE
-Barty. The bag.
-BARTY
+BARTY SR. The bag.
+BARTY SR
 Champions, in a circle around me. Miss
 Delacour over here, Mr Krum, and Potter
 over here. Right. Miss Delacour, if
 you will...
-Barty holds up a bag. Fleur takes out a little green
+BARTY SR holds up a bag. Fleur takes out a little green
 dragon.
-BARTY
+BARTY SR
 The welsh green. Mr Krum...
 Viktor takes another out
-BARTY
+BARTY SR
 The chinese fireball. Oooooh.
 Cedric picks one.
-BARTY
+BARTY SR
 The swedish short-snout. Which leaves...
 HARRY
 The horntail...
-BARTY
+BARTY SR
 What's that boy?
 HARRY
 Nothing.
 dragon.
 
 Harry puts his hand in the bag and pulls out the
-BARTY
+BARTY SR
 The hungarian horntail. These represent
 very real dragons, each of which has
 been given a golden egg to protect.
@@ -2626,7 +2626,7 @@ Harry!
 
 DUMBLEDORE
 
-BARTY
+BARTY SR
 Get him another towel.
 DUMBLEDORE
 I want all the judges over here now.
@@ -2684,8 +2684,8 @@ Blimey even when you go wrong it turns
 out right.
 GEORGE
 Well done 'moral fibre'.
-Barty Crouch is waiting for Harry.
-BARTY
+BARTY SR Crouch is waiting for Harry.
+BARTY SR
 Congratulations Potter, fine achievement.
 Well done boy. I'm sorry we haven't
 spoken, after all your story is one
@@ -2701,7 +2701,7 @@ Bartimus! Not trying to lure Potter
 into one of the ministry's summer internships
 are we? Last boy who went into the department
 of ministries never came out!
-Barty walks away from him.
+BARTY SR walks away from him.
 MAD-EYE
 And they say I'm mad.
 
@@ -2725,7 +2725,7 @@ head
 lifeless.
 
 They walk on singing the Hogwarts song. Harry holds his
-in pain. On the ground he sees Barty Crouch laying
+in pain. On the ground he sees BARTY SR Crouch laying
 
 Mr Crouch?
 
@@ -2806,7 +2806,7 @@ Dumbledore and the man shake hands. Their handshake
 Harry's body, he appears to be some kind of ghost with
 Proceedings begin, a cage is raised from inside the
 
-BARTY
+BARTY SR
 Igor Karkaroff, you have been brought
 from Azkaban at your own request to
 present evidence to this counsel. Should
@@ -2821,12 +2821,12 @@ I do sir.
 
 IGOR
 
-BARTY
+BARTY SR
 What do you wish to present?
 IGOR
 I have names sir. There was a Rosier,
 Evan Rosier.
-BARTY
+BARTY SR
 Mr Rosier is dead.
 IGOR
 Dead?
@@ -2836,19 +2836,19 @@ me with him though didn't he.
 Mad-Eye points to his mechanical eye.
 IGOR
 I didn't know.
-BARTY
+BARTY SR
 If that is all the witness has to offer...
 IGOR
 No! No! There was Rookwood, he was a
 spy.
-BARTY
+BARTY SR
 Augustus Rookwood? Of the department
 of ministries.
 IGOR
 Ya ya, the same. He passed information
 to you know who from inside the ministry
 itself.
-BARTY
+BARTY SR
 Very well. Counsel will deliberate.
 In the meantime you will be returned
 to Azkaban.
@@ -2867,22 +2867,22 @@ he's no more a deatheater than I am.
 IGOR
 It's a lie! Severus Snape remains faithful
 to the dark lord.
-BARTY
+BARTY SR
 Silence!
-Barty hits the gavel repeatedly.
-BARTY
+BARTY SR hits the gavel repeatedly.
+BARTY SR
 Unless the witness possesses any name
 of genuine consequence this session
 is now concluded.
 IGOR
 Oh no no no no no. I heard about one
 more.
-BARTY
+BARTY SR
 What's that?
 The name...
 
 IGOR
-BARTY
+BARTY JR
 
 Yes?
 IGOR
@@ -2890,20 +2890,20 @@ I know for a fact this person took part
 in the capture, and by means of the
 cruciatus curse, torture of the aurer
 Frank Longbottom and...
-BARTY
+BARTY SR
 The name! Give me the wretched name!
 IGOR
-Barty Crouch! ... Junior.
-Barty Crouch junior begins to run. Mad-Eye zaps him
+Barty JR Crouch! ... Junior.
+Barty JR Crouch junior begins to run. Mad-Eye zaps him
 with magic,
 uproar.
 
 he falls into the center of the court. The crowd is in
-Guards seize Barty junior.
+Guards seize Barty JR junior.
 BARTY JR
 Get your hands off me you pathetic little
 men. Hello father.
-BARTY
+BARTY SR
 You are no son of mine.
 GAHHHH!
 
@@ -2929,7 +2929,7 @@ HARRY
 Sir, Mr Crouch's son, what happened
 to him?
 DUMBLEDORE
-He was sent to Azkaban. Destroyed Barty
+He was sent to Azkaban. Destroyed BARTY SR
 to do it. But he had no choice, the
 evidence was overwhelming. Why do you
 ask?
@@ -3515,18 +3515,18 @@ strange noises.
 He appears to be transforming. He rips off his fake
 
 eyepiece
-into Barty
+into BARTY JR
 
 which falls on the floor, we see that he's transformed
 Crouch Junior.
 DUMBLEDORE
-Barty Crouch Junior.
+Barty JR Crouch Junior.
 BARTY JR
 I'll show you mine if you show me yours.
 
 snake marking.
 
-Barty Jr rolls up his sleeve to reveal a skull and
+Barty JR rolls up his sleeve to reveal a skull and
 
 DUMBLEDORE
 Your arm Harry.
