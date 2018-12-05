@@ -10,6 +10,10 @@ intact.
 
 We home in on a snake crawling through the undergrowth.
 TITLES
+
+_START OF NEW SCENE_
+1
+
 INT. DARK ROOM - NIGHT TIME
 An old man lights a gas oven with a match, he is
 
@@ -25,6 +29,9 @@ OLD MAN
 Bloody kids.
 
 He leaves the house and heads towards the light.
+
+_START OF NEW SCENE_
+
 EXT. DARKNESS
 The old man is wandering up to the house carrying a lit
 
@@ -72,6 +79,8 @@ A loud spell is cast and Harry wakes up in a flash of
 
 panic.
 
+_START OF NEW SCENE_
+
 INT. BEDROOM
 HERMIONE
 
@@ -96,6 +105,8 @@ HERMIONE
 Honestly. Get dressed, and don't go
 back to sleep. Come on Ron! Your mother
 says breakfast's ready.
+
+_START OF NEW SCENE_
 
 EXT. GRASSLAND
 HARRY
@@ -202,6 +213,9 @@ HARRY
 See ya later Cedric.
 ARTHUR
 Home sweet home.
+
+_START OF NEW SCENE_
+
 INT. TENT
 
 than the
@@ -224,12 +238,18 @@ They take their feet off the table and put them back on
 as Arthur has walked past.
 HARRY
 (Smiling) I love magic.
+
+_START OF NEW SCENE_
+
 EXT. HILLSIDE
 
 to have
 
 We pan up the hillside onto a large stadium which seems
 a huge number of floors.
+
+_START OF NEW SCENE_
+
 INT. STADIUM
 The Weasleys and Harry are finding their seats.
 RON
@@ -288,6 +308,9 @@ Good evening! It gives me great pleasure
 to welcome each and every one of you
 to the final of the 422nd Quidditch
 World Cup. Let the match begin!
+
+_START OF NEW SCENE_
+
 INT. TENT
 
 RON
@@ -311,6 +334,9 @@ pride on.
 ARTHUR
 Stop! Stop it. It's not the irish. We've
 gotta get out of here. Now.
+
+_START OF NEW SCENE_
+
 EXT. OUTSIDE THE TENT
 ARTHUR
 Get back to the portkey everybody, and
@@ -322,6 +348,9 @@ is paniced
 Some figures in pointed hoods carrying flaming torches
 across the campsite chanting ominous noises. The crowd
 and rushing all over. Harry is trampled unconscious.
+
+_START OF NEW SCENE_
+
 EXT. OUTSIDE - TIME PASSED
 The crowds have all gone. A man walks through the
 
@@ -387,6 +416,8 @@ ARTHUR
 HARRY
 I dunno. I didn't see his face.
 
+_START OF NEW SCENE_
+
 INT. TRAIN CARRIAGE
 calls
 
@@ -445,6 +476,9 @@ Harry has written a letter, he marks Sirius Black on an
 envelope
 
 and gives it to an owl.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS
 We see four flying horses flying through the air
 pulling a carriage
@@ -513,6 +547,9 @@ Igor.
 DUMBLEDORE
 
 They embrace.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS - STORMY - NIGHT
 MADAME MAXIME
 Professor Dumbledore, my horses have
@@ -530,6 +567,9 @@ a fork
 The man seated next to Hagrid yelps. Hagrid has stabbed
 into his hand.
 You idiot!
+
+_START OF NEW SCENE_
+
 INT. ASSEMBLY ROOM
 
 MAN
@@ -613,11 +653,16 @@ Do not do so lightly, if choosen there's
 no turning back. As from this moment
 the tri-wizard tournament has begun.
 
+_START OF NEW SCENE_
+
 INT. ASSEMBLY ROOM - NIGHT
 We see a suspicious character enter the room where the
 goblet
 
 is still burning and close the door behind him.
+
+_START OF NEW SCENE_
+
 INT. CLASSROOM
 MAD-EYE
 Alastor Moody.
@@ -733,6 +778,9 @@ known to have survived it. And he's
 
 sitting in this room.
 He approaches Harry's desk and takes a drink.
+
+_START OF NEW SCENE_
+
 INT. STAIRS
 RON
 Brilliant isn't he! Completely demented
@@ -758,6 +806,9 @@ Neville nods.
 MAD-EYE
 Come on, we'll have a cup of tea. I
 want to show you something.
+
+_START OF NEW SCENE_
+
 INT. GOBLET ROOM
 Older students are placing their names into the flame
 
@@ -820,6 +871,8 @@ his name in the flame. He looks at Hermione and she
 
 smiles.
 
+_START OF NEW SCENE_
+
 INT. GOBLET ROOM - THURSDAY NIGHT
 DUMBLEDORE
 Sit down please. And now the moment
@@ -873,6 +926,9 @@ in the crowd shout out.
 VOICE
 He's a cheat! He's not even seventeen
 yet.
+
+_START OF NEW SCENE_
+
 INT. ROOM
 Harry is in a room with the other champions. Dumbledore
 
@@ -919,6 +975,8 @@ fire constitutes a binding magical contract.
 Mr Potter has no choice, he is as of
 tonight... a tri-wizards champion.
 
+_START OF NEW SCENE_
+
 INT. DARKENED TOWER ROOM
 MCGONAGALL
 This can't go on Albus. First the dark
@@ -952,6 +1010,8 @@ Don't let him know though, he must be
 anxious enough as it is... knowing what
 lies ahead. Then again, we all are.
 
+_START OF NEW SCENE_
+
 INT. BEDROOM
 RON
 How did you do it?
@@ -979,6 +1039,8 @@ did ok.
 Piss off.
 
 RON
+
+_START OF NEW SCENE_
 
 INT. HOGWARTS
 and dressed
@@ -1054,6 +1116,9 @@ HARRY
 (looking at the notepad) Hey, my eyes
 aren't glistening with the ghosts of
 my past.
+
+_START OF NEW SCENE_
+
 INT. ROOFTOP
 An owl flies in with a letter for Harry, he takes it
 and begins
@@ -1077,6 +1142,8 @@ HARRY
 AGH!
 SIR
 (VOICEOVER CONT'D) The bird bites.
+
+_START OF NEW SCENE_
 
 INT. GRIFFINDORE COMMON ROOM
 HARRY
@@ -1177,6 +1244,8 @@ TRAGEDY".
 Ron leaves. Harry goes to the fire again but Sirius is
 The newspaper in the fire has the headline "TEENAGE
 
+_START OF NEW SCENE_
+
 EXT. LAKESIDE
 NEVILLE
 Amazing. Amazing.
@@ -1223,6 +1292,9 @@ HARRY
 Well you can tell Ronald...
 HERMIONE
 I'm NOT an owl!
+
+_START OF NEW SCENE_
+
 INT. FOREST
 Harry and Hagrid are walking through a dark forest.
 HAGRID
@@ -1300,6 +1372,8 @@ bring him over from Romania. Didn't
 Ron tell you that?
 HARRY
 No he didn't. He didn't tell me a thing.
+
+_START OF NEW SCENE_
 
 EXT. HOGWARTS - DAYTIME
 We're zoomed in on a badge, it depicts Cedric on a
@@ -1430,6 +1504,9 @@ MCGONAGALL
 Well you will do well to remember it.
 MAD-EYE
 (To Harry) come with me.
+
+_START OF NEW SCENE_
+
 INT. MAD-EYE'S ROOM
 Mad-Eye takes off his prosthetic leg and takes a seat.
 MAD-EYE
@@ -1469,8 +1546,14 @@ HARRY
 But I'm not allowed a broom.
 MAD-EYE
 You're allowed a wand.
+
+_START OF NEW SCENE_
+
 EXT. ARENA - TOURNAMENT STAGE 1
 The crowds are cheering, people are taking bets.
+
+_START OF NEW SCENE_
+
 INT. WAITING TENT
 Harry is pacing nervously. Hermione is standing by the
 tent door
@@ -1553,7 +1636,9 @@ DUMBLEDORE
 Very well. Good luck champions. Mr Diggory
 the sound of the cannon...
 The cannon fires immediately.
-Transcribed by IMSDb.com
+
+_START OF NEW SCENE_
+
 INT. TENT
 Harry is sitting alone nervously.
 DUMBLEDORE
@@ -1580,6 +1665,9 @@ they look
 
 gives chase. The dragon bursts through the crowd and
 stunned.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS SKY
 
 buildings.
@@ -1601,12 +1689,17 @@ He falls a long way but regains control. He flies on to
 with a bridge, he flies through a gap in the bridge but
 
 crashes into it and falls into the water.
+
+_START OF NEW SCENE_
+
 INT. ARENA
 towards us
 egg.
 
 The crowds are mostly silent. We see Harry flying
 and the crowd erupts. He goes straight for the golden
+
+_START OF NEW SCENE_
 
 INT. HOGWARTS
 Harry is lifting the golden egg, people around him
@@ -1678,6 +1771,9 @@ Yeah it is isn't it. Suppose I was a
 bit distraught.
 HERMIONE
 Boys.
+
+_START OF NEW SCENE_
+
 INT. CLASSROOM
 Harry is looking at Cho. When she looks back he spills
 drink
@@ -1722,6 +1818,9 @@ They're not for Ginny they're for you!
 Dress robes.
 RON
 Dress robes? for what?
+
+_START OF NEW SCENE_
+
 INT. ASSEMBLY ROOM
 
 representitives
@@ -1799,6 +1898,9 @@ still seated.
 MCGONAGALL
 Boys, on your feet.
 Neville stands.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS - DAYTIME
 HARRY
 Why do they always have to travel in
@@ -1812,6 +1914,8 @@ I think I'd take the dragon right now.
 Groups of girls are giving them icy looks and turning
 
 their backs.
+
+_START OF NEW SCENE_
 
 INT. HOGWARTS
 Hagrid and Madame Maxime are walking together.
@@ -1830,10 +1934,15 @@ And then he died when I was still in
 school. So I had to make me own way
 as it were. But enough of me, what about
 you!
+
+_START OF NEW SCENE_
+
 EXT. LAKESIDE
 
 Viktor Krum is training, a group of girls are following
 him around.
+
+_START OF NEW SCENE_
 
 INT. CLASSROOM
 RON
@@ -1877,6 +1986,9 @@ partners. Agreed?
 
 HARRY
 Agreed.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS - SNOWY
 Harry is walking up some steps. He reaches the top and
 bumps
@@ -1913,6 +2025,9 @@ HARRY
 Ok. Great. Fine. No problem. Good.
 CHO
 Harry I really am sorry.
+
+_START OF NEW SCENE_
+
 INT. COMMON ROOM
 Ron is being helped into the room, he looks shaky.
 HARRY
@@ -1953,11 +2068,17 @@ Hi Harry.
 
 HARRY
 Hey!
+
+_START OF NEW SCENE_
+
 INT. DANCEHALL
 Soft music plays and everyone is well dressed, gathered
 in the
 
 hall.
+
+_START OF NEW SCENE_
+
 ELSEWHERE
 
 paniced
@@ -1986,6 +2107,9 @@ He sniffs at his clothes.
 RON
 I smell like my great aunt Tessie. Murder
 me Harry.
+
+_START OF NEW SCENE_
+
 INT. DANCEHALL
 Harry and Ron are walking down the stairs into the
 hall. Ron
@@ -2101,6 +2225,8 @@ No.
 
 RON
 
+_START OF NEW SCENE_
+
 LATER
 RON
 (To Hermione) He's using you.
@@ -2137,6 +2263,9 @@ RON
 They get scary when they get older.
 HERMIONE
 Ron you spoil everything!
+
+_START OF NEW SCENE_
+
 INT. BEDROOM
 NIGHTMARE SEQUENCE
 We're back in the old house.
@@ -2159,6 +2288,9 @@ up to his bed. It's Neville.
 NEVILLE
 You alright Harry? I just got in. Me!
 He chuckles and dances off.
+
+_START OF NEW SCENE_
+
 EXT. A BRIDGE OUTSIDE HOGWARTS
 HERMIONE
 Harry you told me you'd figured the
@@ -2213,6 +2345,9 @@ CEDRIC
 It's not a bad place for a bath. Just
 take your egg and mull things over in
 the hot water.
+
+_START OF NEW SCENE_
+
 INT. BATHROOM
 Harry is taking his clothes off, he gets in the bath.
 He has
@@ -2265,6 +2400,9 @@ Ahhh, very good. Took Cedric ages to
 riddle it out. Almost all the bubbles
 were gone...
 Myrtle laughs and Harry is embarrassed.
+
+_START OF NEW SCENE_
+
 INT. COMMON ROOM
 HERMIONE
 Harry, tell me again.
@@ -2320,6 +2458,9 @@ great.
 NEVILLE
 I don't know about a turnip but you
 can always use gilliweed.
+
+_START OF NEW SCENE_
+
 EXT. LAKESIDE
 is walking
 hand.
@@ -2388,6 +2529,8 @@ The cannon fires and the champions enter the water,
 them dive in while Harry is pushed. Underwater the
 gilliweed take hold, Harry's hands and feet become
 
+_START OF NEW SCENE_
+
 EXT. ABOVE WATER
 SEAMUS
 What's the matter with him?
@@ -2399,17 +2542,25 @@ Oh my god I've killed Harry Potter!
 Harry flies into the air like a dolphin and the crowd
 cheer.
 
+_START OF NEW SCENE_
+
 EXT. UNDERWATER
 start echoing.
 
 Harry swims among the fish and rocks. Singing voices
 We see Fleur get trapped, she screams.
+
+_START OF NEW SCENE_
+
 EXT. ABOVE WATER
 DUMBLEDORE
 (Over the loudspeaker) The Beauxbatons
 champion Miss Delacour has unfortunately
 been forced to retire. She will take
 no further part in this task.
+
+_START OF NEW SCENE_
+
 EXT. UNDERWATER
 
 screams. He
@@ -2433,6 +2584,9 @@ heads for
 What looks like a shark approaches at high speed. We
 it has legs and it's Viktor. He takes Hermione and
 the surface. Harry frees Ron.
+
+_START OF NEW SCENE_
+
 EXT. ABOVE WATER
 Cedric and Cho emerge, the crowd cheers. Viktor and
 
@@ -2441,6 +2595,9 @@ Hermione
 next, the crows chants 'Krum, Krum, Krum'. The
 Beauxbatons girls
 look worried.
+
+_START OF NEW SCENE_
+
 EXT. UNDERWATER
 was unable
 for the
@@ -2452,6 +2609,9 @@ to rescue. He loosens her rope too and starts heading
 held down,
 
 he pushes Ron and the girl towards the surface.
+
+_START OF NEW SCENE_
+
 EXT. ABOVE WATER
 
 They're
@@ -2545,6 +2705,8 @@ Barty walks away from him.
 MAD-EYE
 And they say I'm mad.
 
+_START OF NEW SCENE_
+
 EXT. DARK FOREST
 HAGRID
 So I remember, I remember when I first
@@ -2568,6 +2730,8 @@ in pain. On the ground he sees Barty Crouch laying
 Mr Crouch?
 
 HARRY
+
+_START OF NEW SCENE_
 
 INT. HOGWARTS DARK ROOM
 DUMBLEDORE
@@ -2623,6 +2787,9 @@ Dumbledore
 of water there. He looks in. He falls and lands in
 and place. It's a courtroom, the walls have a red glow.
 is seated next to where Harry is.
+
+_START OF NEW SCENE_
+
 INT. COURTROOM
 Professor?
 
@@ -2790,6 +2957,9 @@ string of magic
 out from his head.
 DUMBLEDORE
 Cast them away.
+
+_START OF NEW SCENE_
+
 INT. CORRIDOR
 
 Harry is walking along, we hear raised voices from
@@ -2832,6 +3002,9 @@ flies? You and your friends are brewing
 polyjuice potion and believe me I'm
 going to find out why.
 Severus closes the door in Harry's face.
+
+_START OF NEW SCENE_
+
 EXT. ARENA
 champions
 
@@ -2955,6 +3128,8 @@ CEDRIC
 Go. Take it, you saved me!
 HARRY
 Together, on three. One, two, three!
+
+_START OF NEW SCENE_
 
 EXT. GRAVEYARD
 Harry and Cedric have ported to a graveyard.
@@ -3171,6 +3346,8 @@ No!
 
 VOLDEMORT
 
+_START OF NEW SCENE_
+
 EXT. ARENA
 crowd
 
@@ -3200,6 +3377,9 @@ be moved Dumbledore, there are... too
 AMOS
 Let me through! That's my son! My boy!
 Amos breaks down wailing. The crowd look on distraught.
+
+_START OF NEW SCENE_
+
 INT. DARKENED ROOM
 Harry is
 
@@ -3361,6 +3541,9 @@ I'll be welcomed back like a hero.
 DUMBLEDORE
 Perhaps. Personally I've never had much
 time for heroes.
+
+_START OF NEW SCENE_
+
 INT. ASSEMBLY ROOM
 DUMBLEDORE
 (Speaking to all pupils) Today we acknowledge
@@ -3386,6 +3569,9 @@ Diggory will not have died in vain,
 you remember that. And we'll celebrate
 a boy who was kind and honest and brave
 and true right to the very end.
+
+_START OF NEW SCENE_
+
 INT. BEDROOM
 Harry is sitting on a bed, Dumbledore walks in.
 DUMBLEDORE
@@ -3409,6 +3595,9 @@ times lie ahead. Soon we must all face
 the choice between what is right what
 is easy. But remember this, you have
 friends here. You're not alone.
+
+_START OF NEW SCENE_
+
 EXT. HOGWARTS
 There's a large crowd gathered, the pupils are going
 home. Viktor
