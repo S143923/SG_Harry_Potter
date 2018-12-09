@@ -96,10 +96,84 @@ body.dark{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    user-select: none;
 }
 
 .wordcloud-img-container p{
     margin-top: 10px;
     margin-bottom: 0;
     text-align: center;
+}
+
+.network-container {
+    position: relative;
+}
+
+.image-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+}
+
+.network-container:hover .image-overlay {
+    opacity: 1;
+}
+
+.legend {
+    color: white;
+    font-size: 1.5em;
+    position: absolute;
+    top: 4em;
+    left: 4em;
+    text-align: left;
+}
+
+.legend div{
+    margin-top: 0.5em;
+    display: flex;
+    align-items: center;
+}
+
+.node-label.gryffindor{
+    background: #CE0E00;
+    opacity: 0.65;
+}
+
+.node-label.slytherin {
+    background: #2D4732;
+    opacity: 0.65;
+}
+.node-label.hufflepuff {
+    background: #FFCA52;
+    opacity: 0.65;
+}
+.node-label.ravenlclaw {
+    background: #0E247D;
+    opacity: 0.65;
+}
+.node-label.muggle {
+    background: white;
+    opacity: 0.65;
+}
+.node-label.default {
+    background: #969696;
+    opacity: 0.65;
+}
+.node-label{
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    border-radius: 50%;
+    margin-right: 0.5em;
+}
+
+.sub-section{
+    font-size: small;
+    margin-left: 20px;
 }
