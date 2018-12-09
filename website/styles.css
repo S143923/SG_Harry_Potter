@@ -177,3 +177,8 @@ body.dark{
     font-size: small;
     margin-left: 20px;
 }
+
+.degree-image{
+    width: 100%;
+    height: auto;
+}
