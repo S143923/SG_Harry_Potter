@@ -837,7 +837,7 @@ Percy: Potions. But everyone knows it's the Dark Arts he fancies. He's been afte
 r Quirrells job for years.
 
 Ron, having just finished a chicken wing, reaches into the bowl for more, and a
-ghostly head, SIR NICHOLAS, pops out.
+ghostly head, SIR_NICHOLAS, pops out.
 
 Ron: Ahh!
 Nick: Hello! How are you? Welcome to Gryffindor.
@@ -846,11 +846,11 @@ Numerous ghosts come pouring from the walls, sailing along.
 
 Hufflepuff ghost: Whoo-hoo-hoo!
 Girl: Look, its the Bloody Baron!
-Percy: Hello, Sir Nicholas. Have a nice summer?
+Percy: Hello, SIR_NICHOLAS. Have a nice summer?
 Nick: Dismal. Once again, my request to join the headless hunt has been denied.
 {Begins to leave}
 Ron: Hey, I know you! You're Nearly Headless Nick!
-Nick: I prefer Sir Nicholas if you don't mind.
+Nick: I prefer SIR_NICHOLAS if you don't mind.
 Hermione: Nearly headless? How can you be nearly headless?
 Nick: Like this. {Grabs head and pulls it to the side. His head is hanging on ju
 st by a thread.}
@@ -1077,7 +1077,7 @@ ll continues.} And the vampire b-bat...{eerie roar.}
 McGonagall: Potter, this is Oliver Wood. Wood, I have found you a Seeker!
 
 _START OF NEW SCENE_ 
- Harry and Ron are walking through crowded halls. Sir Nicholas and a lady
+ Harry and Ron are walking through crowded halls. SIR_NICHOLAS and a lady
 ghost float by.
 
 Nick: Have you heard? Harry Potter's the new Gryffindor Seeker. I always knew he
@@ -2335,7 +2335,7 @@ Harry: Ron was here? Is he all right? What about Hermione?
 Dumbledore: Fine. They're both just fine.
 
 Harry: But, what happened to the Stone?
-Dumbledore: Relax, dear boy. The stone has been destroyed. My friend Nicholas an
+Dumbledore: Relax, dear boy. The stone has been destroyed. My friend Nicholas Flamel an
 d I had a little chat and agreed it was best all around.
 Harry: But Flamel, he'll die, won't he?
 Dumbledore: {sits on the bed.} He has enough Elixir to set his affairs in order.
