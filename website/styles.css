@@ -109,6 +109,11 @@ body.dark{
     position: relative;
 }
 
+.network-container img{
+    width: 100%;
+    height: auto;
+}
+
 .image-overlay {
     position: absolute;
     top: 0;
