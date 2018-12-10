@@ -151,7 +151,7 @@ body.dark{
 }
 
 .node-label.slytherin {
-    background: #2D4732;
+    background: #009403;
     opacity: 0.65;
 }
 .node-label.hufflepuff {
@@ -159,7 +159,7 @@ body.dark{
     opacity: 0.65;
 }
 .node-label.ravenlclaw {
-    background: #0E247D;
+    background: #6596BF;
     opacity: 0.65;
 }
 .node-label.muggle {
@@ -167,7 +167,7 @@ body.dark{
     opacity: 0.65;
 }
 .node-label.default {
-    background: #969696;
+    background: #4e0333;
     opacity: 0.65;
 }
 .node-label{
