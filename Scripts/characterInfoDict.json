@@ -6389,7 +6389,7 @@
     },
     "ripper": {
         "house": "none",
-        "blood": "unknown",
+        "blood": "muggle",
         "loyalty": [
             "marjorie dursley"
         ]
@@ -7662,5 +7662,15 @@
         "house": "none",
         "loyalty": ["albus dumbledore", "order of the phoenix"],
         "blood": "squib"
+    },
+    "bob (muggle)": {
+        "house": "none",
+        "loyalty": ["weasley family"],
+        "blood": "muggle"
+    },
+    "amelia susan bones": {
+        "house": "hufflepuff",
+        "loyalty": ["british ministry of magic", "order of the phoenix"],
+        "blood": "pure-blood or half-blood"
     }
 }
