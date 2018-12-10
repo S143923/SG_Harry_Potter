@@ -11,6 +11,10 @@ body.dark{
     color: white;
 }
 
+.dark button{
+    color:white;
+}
+
 .dark .table-of-contents li a{
     color: white;
 }
@@ -107,11 +111,15 @@ body.dark{
 
 .network-container {
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .network-container img{
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100vh;
 }
 
 .image-overlay {
@@ -134,7 +142,7 @@ body.dark{
     color: white;
     font-size: 1.5em;
     position: absolute;
-    top: 4em;
+    top: 0.5em;
     left: 4em;
     text-align: left;
 }
@@ -186,4 +194,13 @@ body.dark{
 .degree-image{
     width: 100%;
     height: auto;
+}
+
+.hidden{
+    display: none;
+}
+
+.py-1{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }

@@ -30,3 +30,14 @@ function selectBook(elem){
     print("changed", elem);
 }
 
+function toggleDegrees() {
+    let remainingDegrees = document.getElementById("remainingDegreePlots");
+    if (remainingDegrees.style.display === "none") {
+        remainingDegrees.style.display = "block";
+        $("#toggleDegreeBtn").html('Show less');
+    } else {
+        remainingDegrees.style.display = "none";
+        $("#toggleDegreeBtn").html('Show more');
+    }
+}
+
