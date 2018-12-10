@@ -15,79 +15,6 @@
 </head>
 
 <body class="dark">
-<!--<section class="black">-->
-<!--<div class="carousel carousel-slider" data-indicators="true" style="min-height: 100vh"  id="pages">-->
-<!--&lt;!&ndash;<div class="carousel-fixed-item">&ndash;&gt;-->
-<!--&lt;!&ndash;<div class="container">&ndash;&gt;-->
-<!--&lt;!&ndash;<h1 class="white-text">Materialize Carousel</h1>&ndash;&gt;-->
-<!--&lt;!&ndash;<a class="btn waves-effect white grey-text darken-text-2" href="https://codepen.io/collection/nbBqgY/" target="_blank">button</a>&ndash;&gt;-->
-<!--&lt;!&ndash;</div>&ndash;&gt;-->
-<!--&lt;!&ndash;</div>&ndash;&gt;-->
-<!--<div class="carousel-item book-1 lighten-2 white-text" href="#one!">-->
-<!--<div class="container" >-->
-<!--<h2 class="center">Philosopher's Stone</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-2 darken-2 white-text" href="#two!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">Chamber of Secrets</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-3 white-text" href="#three!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">Prisoner of Azkaban</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-4 white-text" href="#four!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">Goblet of Fire</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-5 white-text" href="#five!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">Order of the Phoenix</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-6 white-text" href="#six!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">Half-Blood Prince</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--<div class="carousel-item book-7 white-text" href="#seven!">-->
-<!--<div class="container">-->
-<!--<h2 class="center">The Deadly Hallows</h2>-->
-<!--<p class="white-text">Etiam porta sem malesuada magna mollis euismod.</p>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</section>-->
-
-<!--<div class="dark">-->
-<!--<div class="" style="min-height: 100vh">-->
-<!--<div class="section">-->
-
-<!--&lt;!&ndash;   Icon Section   &ndash;&gt;-->
-<!--<div class="">-->
-
-<!--<div class="carousel" id="cloud">-->
-<!--<a class="carousel-item" href="#one!"><p class="center white-text">Philosopher'S Stone</p></a>-->
-<!--<a class="carousel-item" href="#two!"><p class="center white-text">Chamber of Secrets</p></a>-->
-<!--<a class="carousel-item" href="#three!"><p class="center white-text">Prisoner of Azkaban</p></a>-->
-<!--<a class="carousel-item" href="#four!"><p class="center white-text">Goblet of Fire</p></a>-->
-<!--<a class="carousel-item" href="#five!"><p class="center white-text">Order of the Phoenix</p></a>-->
-<!--<a class="carousel-item" href="#six!"><p class="center white-text" >Half Blood Prince</p></a>-->
-<!--<a class="carousel-item" href="#Seven!"><p class="center white-text">Deadly Hallows</p></a>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
-<!--</div>-->
 
 <div class="row margin-bottom-0">
     <div class="col hide-on-small-only m2">
@@ -96,7 +23,7 @@
                     style="margin-bottom: 20px">Social Graphs</span></div>
             <ul class="section table-of-contents">
                 <li><a href="#degrees">Degrees Over Time</a></li>
-                <li><a href="#cloud-all">Wordcloud - All books</a></li>
+                <li><a href="#clouds">Wordcloud - All books</a></li>
                 <li><a href="#book1">Philosopher's Stone</a></li>
                 <li class="sub-section"><a href="#book1_net">Movie Network</a></li>
                 <li><a href="#book2">Chamber of Secrets</a></li>
@@ -109,8 +36,7 @@
                 <li class="sub-section"><a href="#book5_net">Movie Network</a></li>
                 <li><a href="#book6">Half Blood Prince</a></li>
                 <li class="sub-section"><a href="#book6_net">Movie Network</a></li>
-                <li><a href="#book7">Deathly Hallows</a>
-                <li>
+                <li><a href="#book7">Deathly Hallows</a><li>
                 <li class="sub-section"><a href="#book7_net">Movie Network</a></li>
             </ul>
         </div>
@@ -123,7 +49,7 @@
                     <div class="py-1">
                         <button id="toggleDegreeBtn" class="waves-effect waves-light btn-flat" onclick="toggleDegrees()">Show more</button>
                     </div>
-                    <div>
+                    <div class="overflow-auto">
                         <div class="col s12 m6 l6 xl4">
                             <img alt="degrees" class="degree-image" src="plots/degrees/degree1.png">
                         </div>
@@ -134,7 +60,7 @@
                             <img alt="degrees" class="degree-image" src="plots/degrees/degree3.png">
                         </div>
                     </div>
-                    <div style="display: none" id="remainingDegreePlots">
+                    <div style="display: none" id="remainingDegreePlots" class="overflow-auto">
                         <div class="col s12 m6 l6 xl4">
                             <img alt="degrees" class="degree-image" src="plots/degrees/degree4.png">
                         </div>
@@ -308,7 +234,7 @@
             </div>
         </section>
         <section>
-            <div id="cloud-all" class="section scrollspy full-screen">
+            <div id="clouds" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center">Word Clouds</h2>
                     <div class="carousel carousel-slider wordcloud" data-indicators="true" style="min-height: 85vh">
