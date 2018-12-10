@@ -169,8 +169,8 @@ Passing goblin: Terrible. Lost a lot of Galleons trading on the potions market.
 Wizard: Daily Prophet, ladies and gentlemen. Anybody for Daily Prophet? Dumbledore: Is he daft, or is he dangerous?
 
 _START OF NEW SCENE_
-Bob: Morning, Arthur.
-Arthur:  Morning, Bob. Interdepartmental memos. We used to use owls. Mess was unbelievable. Merlin's beard. Thank you, Kingsley. They've changed the time of your hearing.
+Bob_muggle: Morning, Arthur.
+Arthur:  Morning, Bob_muggle. Interdepartmental memos. We used to use owls. Mess was unbelievable. Merlin's beard. Thank you, Kingsley. They've changed the time of your hearing.
 Harry: When is it?
 Arthur: In five minutes.
 
@@ -181,7 +181,7 @@ Fudge: Yes, but we must be...
 Arthur: Remember, during the hearing, speak only when you're spoken to Keep calm. You've done nothing wrong. As the Muggles say, truth will out. Yes? I'm not allowed in, I'm afraid. Good luck, Harry.
 
 _START OF NEW SCENE_
-Fudge: Disciplinary hearing of the 12th of August into offenses committed by Harry James Potter resident at Number 4 Privet Drive, Little Whinging, Surrey. Interrogators: Cornelius Oswald Fudge, Minister of Mag...
+Fudge: Disciplinary hearing of the 12th of August into offenses committed by Harry Potter resident at Number 4 Privet Drive, Little Whinging, Surrey. Interrogators: Cornelius Oswald Fudge, Minister of Mag...
 Dumbledore: Witness for the defense. Albus Percival Wulfric Brian Dumbledore.
 Fudge: You got our message that the time and place of the hearing had been changed, did you?
 Dumbledore: I must have missed it. But by a happy mistake, I arrived at the Ministry three hours early. The charges?
@@ -883,7 +883,7 @@ Harry: What? No, I'm staying with you.
 Sirius: You've done beautifully. Now, let me take it from here.
 Mr. Malfoy: Black.
 Harry: Expelliarmus!
-Sirius: Nice one, James.
+Sirius: Nice one, James_.
 Bellatrix: Avada Kedavra.
 Harry: No. No.
 
