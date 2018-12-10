@@ -1,0 +1,222 @@
+{
+  "james potter": {
+    "house": "gryffindor",
+    "loyalty": ["marauders", "gryffindor", "gryffindor quidditch team", "order of the phoenix"],
+    "blood": "pure-blood"
+  },
+  "madam rosmerta": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "wizardkind"
+  },
+  "lord voldemort": {
+    "house": "slytherin",
+    "loyalty": ["death eaters", "hogwarts", "slytherin", "borgin and burkes"],
+    "blood": "half-blood"
+  },
+  "stan shunpike": {
+    "house": "none",
+    "loyalty": ["knight bus"],
+    "blood": "unknown"
+  },
+  "barty crouch": {
+    "house": "none",
+    "loyalty": ["ministry of magic"],
+    "blood": "pure-blood"
+  },
+  "mr. mason": {
+    "house": "none",
+    "loyalty": ["mason family", "dursley family"],
+    "blood": "muggle"
+  },
+  "aunt marge dursley": {
+    "house": "none",
+    "loyalty": ["dursley family"],
+    "blood": "muggle"
+  },
+  "babbitty rabbitty": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "wizardkind"
+  },
+  "madam hooch": {
+    "house": "none",
+    "loyalty": ["hogwarts"],
+    "blood": "wizardkind"
+  },
+  "ernest macmillan": {
+    "house": "hufflepuff",
+    "loyalty": ["hogwarts", "hufflepuff"],
+    "blood": "pure-blood"
+  },
+  "ron weasley": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts", "gryffindor", "potter family", "weasley family", "granger family", "order of the phoenix", "dumbledore's army"],
+    "blood": "pure-blood"
+  },
+  "scabbers": {
+    "house": "gryffindor",
+    "loyalty": ["marauders", "hogwarts", "death eaters", "order of the phoenix", "lord voldemort"],
+    "blood": "pure-blood or half-blood"
+  },
+  "the bloody baron": {
+    "house": "slytherin",
+    "loyalty": ["hogwarts", "slytherin"],
+    "blood": "unknown"
+  },
+  "mrs. norris": {
+    "house": "none",
+    "loyalty": ["argus filch", "hogwarts"],
+    "blood": "unknown"
+  },
+  "charlie weasley": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts", "order of the phoenix", "gryffindor", "weasley family"],
+    "blood": "pure-blood"
+  },
+  "auntie muriel": {
+    "house": "none",
+    "loyalty": ["order of the phoenix"],
+    "blood": "pure-blood or half-blood"
+  },
+  "madame bonhabille": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "wizardkind"
+  },
+  "uncle bilius": {
+    "house": "none",
+    "loyalty": ["weasley family"],
+    "blood": "pure-blood"
+  },
+  "albus severus potter": {
+    "house": "slytherin",
+    "loyalty": ["hogwarts", "slytherin", "weasley family", "potter family"],
+    "blood": "half-blood"
+  },
+  "moaning myrtle": {
+    "house": "ravenclaw",
+    "loyalty": ["harry potter", "draco malfoy"],
+    "blood": "born"
+  },
+  "ernie prang": {
+    "house": "none",
+    "loyalty": ["knight bus"],
+    "blood": "wizardkind"
+  },
+  "wormtail": {
+    "house": "gryffindor",
+    "loyalty": ["marauders", "hogwarts", "death eaters", "order of the phoenix", "lord voldemort"],
+    "blood": "pure-blood or half-blood"
+  },
+  "sir nicholas": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts", "gryffindor"],
+    "blood": "unknown"
+  },
+  "ginny weasley": {
+    "house": "gryffindor",
+    "loyalty": ["potter family", "weasley family", "hogwarts", "order of the phoenix"],
+    "blood": "pure-blood"
+  },
+  "avery": {
+    "house": "slytherin",
+    "loyalty": ["death eaters", "hogwarts", "lord voldemort"],
+    "blood": "pure-blood or half-blood"
+  },
+  "lily j. potter": {
+    "house": "gryffindor",
+    "loyalty": ["potter family", "slug club", "order of the phoenix", "hogwarts"],
+    "blood": "muggle-born"
+  },
+  "mary elizabeth cattermole": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "muggle-born"
+  },
+  "mrs. cole": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "muggle"
+  },
+  "nearly-headless nick": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts", "gryffindor"],
+    "blood": "unknown"
+  },
+  "adrian (photographer)": {
+    "house": "none",
+    "loyalty": ["slug club"],
+    "blood": "wizardkind"
+  },
+  "wendell wilkins": {
+    "house": "none",
+    "loyalty": ["granger family"],
+    "blood": "muggle"
+  },
+  "gregorovitch": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "pure-blood ot half-blood"
+  },
+  "teddy lupin": {
+    "house": "hufflepuff",
+    "loyalty": ["hogwarts", "hufflepuff", "lupin family", "potter family", "tonks family", "weasley family"],
+    "blood": "half-blood"
+  },
+  "monica wilkins": {
+    "house": "none",
+    "loyalty": ["granger family"],
+    "blood": "muggle"
+  },
+  "mad-eye moody": {
+    "house": "none",
+    "loyalty": ["order of the phoenix", "auror office"],
+    "blood": "pure-blood"
+  },
+  "james potter ii": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts", "potter family", "wesley family"],
+    "blood": "half-blood"
+  },
+  "norbert": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "wizardkind"
+  },
+  "barty crouch jr.": {
+    "house": "",
+    "loyalty": ["lord voldemort", "death eaters", "hogwarts"],
+    "blood": "pure-blood or half-blood"
+  },
+  "sir cadogan": {
+    "house": "gryffindor",
+    "loyalty": ["hogwarts"],
+    "blood": "pure-blood"
+  },
+  "bill weasley": {
+    "house": "gryffindor",
+    "loyalty": ["weasley family", "hogwarts", "gryffindor", "order of the phoenix", "delacour family"],
+    "blood": "pure-blood"
+  },
+  "mr. borgin": {
+    "house": "none",
+    "loyalty": ["borgin and burkes"],
+    "blood": "pure-blood"
+  },
+  "william alderton": {
+    "house": "none",
+    "loyalty": [],
+    "blood": "muggle-born"
+  },
+  "professor tofty": {
+    "house": "none",
+    "loyalty": ["hogwarts"],
+    "blood": "wizardkind"
+  },
+  "mrs. figg": {
+    "house": "none",
+    "loyalty": ["albus dumbledore", "order of the phoenix"],
+    "blood": "squib"
+  }
+}
