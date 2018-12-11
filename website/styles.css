@@ -122,6 +122,11 @@ body.dark{
     height: 100vh;
 }
 
+.network-container img.community{
+    width: 100%;
+    height: auto;
+}
+
 .image-overlay {
     position: absolute;
     top: 0;
@@ -143,7 +148,7 @@ body.dark{
     font-size: 1.5em;
     position: absolute;
     top: 0.5em;
-    left: 4em;
+    left: 0.5em;
     text-align: left;
 }
 
@@ -178,6 +183,31 @@ body.dark{
     background: #4e0333;
     opacity: 0.65;
 }
+.node-label.com1{
+    background: #1676B6;
+    opacity: 0.65;
+}
+
+.node-label.com2 {
+    background: #FF7F00;
+    opacity: 0.65;
+}
+.node-label.com3 {
+    background: #24A121;
+    opacity: 0.65;
+}
+.node-label.com4 {
+    background: #D8241F;
+    opacity: 0.65;
+}
+.node-label.com5 {
+    background: #FFFF99;
+    opacity: 0.65;
+}
+.node-label.com6 {
+    background: #BDAED4;
+    opacity: 0.65;
+}
 .node-label{
     display: inline-block;
     height: 1em;
@@ -207,4 +237,16 @@ body.dark{
 
 .overflow-auto{
     overflow: auto
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container.start{
+    display: flex;
+    justify-content: left;
+    align-items: center;
 }
