@@ -250,3 +250,17 @@ body.dark{
     justify-content: left;
     align-items: center;
 }
+.menu-link{
+    font-weight: 300;
+    color: white;
+    padding-left: 16px;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    cursor: pointer;
+}
+
+.menu-link:hover{
+    border-left: 1px solid #ee6e73;
+    padding-left: 15px;
+    user-select: none;
+}
