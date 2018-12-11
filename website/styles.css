@@ -243,11 +243,10 @@ body.dark{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 .image-container.start{
-    display: flex;
-    justify-content: left;
     align-items: center;
 }
 .menu-link{
