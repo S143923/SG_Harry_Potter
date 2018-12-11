@@ -271,3 +271,8 @@ body.dark{
 .tooltipped{
 
 }
+
+.sequence-image{
+    min-height: 33vh;
+    width: auto;
+}
