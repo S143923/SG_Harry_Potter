@@ -292,6 +292,9 @@
                 <p>
                     The network for Philosopher’s Stone illustrated the expected high involvement characters such as the professors, students and Dursleys. The Gryffindors are highly represented as would be expected, hardly matched by the Slytherins Snape and Draco Malfoy. 
                 </p>
+                <p>
+                    The three major characters Harry, Ron and Hermione, closely followed by the characters which are early introduction in the movie; Dumbledore, McGonagall, Hagrid and so on. The network is quite small compared to the later movies, but this is reflected in the necessity to introduce the whole universe in a book, and too many characters may confuse the viewer. Its is from the beginning clear that certain characters have been cut from the movie to achieve this. Peeves the poltergeist is an example of one of these cut characters which are magical in the story but may be superficial in the grand scheme of things. It is however noteworthy that many of these “simple” cuts and changes have affected the later movies greatly as certain plotlines have needed modifying to make sense to the audience.
+                </p>
                 <div class="network-container">
                     <img src="plots/networks/movie1.png">
                     <div class="image-overlay">
@@ -351,7 +354,6 @@
             <div id="book2" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Chamber of Secrets</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book2_net" class="">
@@ -362,6 +364,9 @@
                         <i class="fas fa-info-circle fa header-tooltip"></i>
                     </span>
                 </h3>
+                <p>
+                    Compared to the first movie, the trio is more prominent here. The significant size different in the nodes, indicated that we are focusing more on the characters, while the number of nodes are also increasing, with the introduction of new characters. McGonagall and Lockhart are the two prominent professors in this book, with Lockhart being a new character. A character which was never introduced in the series is the Librarian Mrs. Pince. Another new character is Colin Creevey who is quite relevant to the storyline, being one of the petrified students. He is amon one of the larger nodes alongside Ginny, Dumbledore and Voldemort. Another stand out node is Justin Finch-Fletchley a muggle-born Hufflepuff who mistakenly rejects Harry’s attempted friendship when he mistakes him for the Heir of Slytherin.
+                </p>
                 <div class="network-container">
                     <img src="plots/networks/movie2.png">
                     <div class="image-overlay">
@@ -424,7 +429,6 @@
             <div id="book3" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Prisoner of Azkaban</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book3_net" class="">
@@ -496,7 +500,6 @@
             <div id="book4" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Goblet of Fire</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book4_net" class="">
@@ -567,7 +570,6 @@
             <div id="book5" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Order of the Phoenix</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book5_net" class="">
@@ -639,7 +641,6 @@
             <div id="book6" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Half Blood Prince</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book6_net" class="">
@@ -709,7 +710,6 @@
             <div id="book7" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center"><span>Deadly Hallows</span></h2>
-                    <p>Content</p>
                 </div>
             </div>
             <div id="book7_net" class="">
@@ -842,6 +842,12 @@
             <div id="clouds" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center no_underline">Word Clouds</h2>
+                    <p>
+                        The word clouds show the most frequent words of each book that also are most unique for to that book compared to the whole series. This is achieved by using TF-IDF which diminishes the weight of frequent words based on the amount of other books they appears in.
+                    </p>
+                    <p>
+                        As an example, the first word cloud from Philosopher’s Stone, words like “Fluffy” and “Flamel” show as big letters, which means that these words are frequent and most unique to that particular book. It provides a much better overview of the content of each book compared to a wordcloud that is generated for just the plain booktext as all important characters would take up most of the space for each book which wouldn’t be very intereting.
+                    </p>
                     <div class="carousel carousel-slider wordcloud" data-indicators="true" style="min-height: 85vh">
                         <div class="carousel-item lighten-2 white-text wordcloud-img-container">
                             <p>Philosopher’s Stone</p>
