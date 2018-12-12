@@ -258,6 +258,18 @@ body.dark{
     cursor: pointer;
 }
 
+
+.github-link{
+    color: white;
+    padding-left: 16px;
+}
+
+.github-container{
+    position: fixed;
+    bottom: 16px;
+    left: 0;
+}
+
 .menu-link:hover{
     border-left: 1px solid #ee6e73;
     padding-left: 15px;
