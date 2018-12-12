@@ -294,3 +294,8 @@ h2 span { background:#313131; padding:0 10px; }
 .no_underline{
     border-bottom: none
 }
+
+.sent-image{
+    width: 100%;
+    height: auto;
+}
