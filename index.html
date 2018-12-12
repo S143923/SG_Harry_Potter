@@ -64,13 +64,17 @@
                 <div class="section-wrapper section" id="degreesContainer">
                     <h2 class="center">Degrees Over Time</h2>
                     <p>
-                        In the graphs below, the characters are evaluated in respect to the number of edges connected to 
-                        each character, and as the networks are undirected it is not concerned with the nature of the 
-                        edges. They are sorted according the total number of nodes across all movies, and the graphs 
-                        illustrate the size of the size of the node in each movie. The main three characters 
-                        Harry Potter, Ron Weasley and Hermione Granger are the 3 largest nodes in the respective order. 
-                        The graphs not only indicate the level of involvement each character has in each book, but also 
-                        (for the smaller characters) which movies they appear in.
+                        The graphs below include each character that was among the top 20 connected nodes 
+                        in a least one movie and shows for how many movies the character was among the top 20 as well 
+                        as the degree for the movie.
+                        The goal is to illustrate which characters are most important for each movie, but also for the whole
+                        Series.
+                        They are sorted by relevance measured by both the number of movies in which they were among 
+                        the 20 most connected nodes as well as their degree in those movie. The three main characters 
+                        Harry Potter, Ron Weasley and Hermione Granger are the most relevant characters accoding to this measure.
+                        Many known characters appear in the  top of the list, but it also captures many minor characters that played a 
+                        key role in only one movie like the participants of the Triwizard Tournament or students that were patrified by
+                        the Obelisk.
                     </p>
                     <div class="py-1">
                         <button id="toggleDegreeBtn" class="waves-effect waves-light btn-flat" onclick="toggleDegrees()">Show more</button>
@@ -831,8 +835,6 @@
                                     <div><span class="node-label com1"></span>Community 1</div>
                                     <div><span class="node-label com2"></span>Community 2</div>
                                     <div><span class="node-label com3"></span>Community 3</div>
-                                    <div><span class="node-label com4"></span>Community 4</div>
-                                    <div><span class="node-label com5"></span>Community 5</div>
                                 </div>
                             </div>
                         </div>
@@ -840,7 +842,7 @@
                     <div class="col l6">
                         <p>Distribution of known groups in the communities</p>
                         <div class="image-container">
-                            <img src="plots/networks/heatmapMovie2.png">
+                            <img src="plots/networks/heatmapMovie8.png">
                         </div>
                     </div>
                 </div>
