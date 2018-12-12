@@ -7663,10 +7663,10 @@
         "loyalty": ["albus dumbledore", "order of the phoenix"],
         "blood": "squib"
     },
-    "bob (muggle)": {
+    "bob": {
         "house": "none",
         "loyalty": ["weasley family"],
-        "blood": "muggle"
+        "blood": "wizardkind"
     },
     "amelia susan bones": {
         "house": "hufflepuff",
