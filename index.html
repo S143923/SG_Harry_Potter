@@ -24,7 +24,8 @@
                     style="margin-bottom: 20px">Social Graphs</span></div>
             <ul class="section table-of-contents">
                 <li><a href="#intro">Introduction</a></li>
-                <li><a href="#degrees">Degrees Over Time</a></li>
+                <li><a href="#degrees">Network Dimensions</a></li>
+                <li><a href="#degreesContainer">Degrees Over Time</a></li>
                 <li><a href="#movieNet">Movie Networks</a></li>
                 <li class="sub-section"><a href="#book1">Philosopher's Stone</a></li>
                 <li class="sub-section"><a href="#book2">Chamber of Secrets</a></li>
@@ -43,7 +44,7 @@
         </div>
     </div>
     <div class="col s12 m10 no-padding">
-        <H1 class="center">The Social Structures of Harry Potter</H1>
+        <h1 class="center title">The Social Structures of Harry Potter</h1>
         <section>
                 <div id="intro" class="section scrollspy">
                     <div>
@@ -62,7 +63,7 @@
         <section>
             <div id="degrees" class="section scrollspy">
                 <div>
-                    <h2 class="center no_underline">Network Dimensions Over Time</h2>
+                    <h2 class="center no_underline">Network Dimensions</h2>
                     <p>
                         Undirected networks have been constructed using the movie manuscripts, with character information collected from the Harry Potter Wiki, like the characters house, blood status and loyalties. 
                         Each movie script was divided into individual scenes and an edge was added between each character that occurred in the same scene. The network is based on all mentioned characters as the scripts weren’t structured uniformly which made it too impractical to differentiate between
@@ -76,7 +77,10 @@
                         The high number of nodes in Deathly Hallows Part 1, is likely due to the requirement to connect all the loose ends in the story. The book with the minimum number of nodes and edges is Goblet of Fire, and is likely due to the very centered storyline around the Triwizard Tournament. This tournament keeps the story focused on the school and the people present, and this changes as the later book introduce outside groups such as the Order of the Phoenix.
                     </p>
                 </div>
-                <div class="section-wrapper section" id="degreesContainer">
+            </div>
+        </section>
+        <section>
+            <div class=" section scrollspy" id="degreesContainer">
                     <h2 class="center no_underline">Degrees Over Time</h2>
                     <p>
                         The graphs below include each character that was among the top 20 connected nodes 
@@ -282,13 +286,17 @@
                         </div>
                     </div>
                 </div>
-            </div>
         </section>
     
         <section>
             <div id="movieNet" class="section scrollspy">
                 <div class="section-wrapper">
                     <h2 class="center no_underline">Movie Networks</h2>
+                    <p>
+                            The following sections contain detailed networks for each movie and some statistics
+                            that try to break them down, set them into context and take a closer look at detected 
+                            communities.
+                        </p>
                 </div>
             </div>
         </section>
@@ -326,6 +334,14 @@
                     </div>
                 </div>
                 <h3 class="center">Degree Distribution</h3>
+                <p>
+                    A trend, that also rouglhy applies to all degree distibutions of the remaining movies,
+                    shows that most nodes have a degree in the rage from 8-15 that look rougly normat 
+                    distributed around that range. Only a few characters have degrees in the range of 40-50.
+                    Those nodes are the main characters which is also reflected in the graphs from the section
+                    <a href="#degreesContainer">Network Dimensions Over Time</a>.
+                    It also seems that there arent any prevelent power laws present in the networks.
+                </p>
                 <div class="row">
                     <div class="col l6">
                         <p class="center">Degree Distributions</p>
@@ -922,20 +938,31 @@
                     <h2 class="center no_underline">Sentiment Analysis</h2>
                     <h3 class="center">Overall</h3>
                     <p>
-                        ompare the sentiments of movie and books, is to more or less look into the one-dimensional mood-scale, considering happy verses sad. But the values found vary so little that there is not much to be concluded, though the overall graphs can be justified with the events of the books. The dataset used to calculate the sentiment, is not representative of the harry potter universe, due to its unique world. Some strongly implicative words such as Dark Lord, Death Eaters and Muggle have huge meanings in the wizarding world, they also highlight the importance of neighbouring words, to the single words understanding. In any of the sentiment analysis, is so tiny any form of analysis is borderline speculative, however we still intent to try as we have found the results to fit very well with the material.
+                        Compare the sentiments of movie and books, is to more or less look into the one-dimensional mood-scale, considering happy verses sad. But the values found vary so little that there is not much to be concluded, though the overall graphs can be justified with the events of the books. The dataset used to calculate the sentiment, is not representative of the harry potter universe, due to its unique world. Some strongly implicative words such as Dark Lord, Death Eaters and Muggle have huge meanings in the wizarding world, they also highlight the importance of neighbouring words, to the single words understanding. In any of the sentiment analysis, is so tiny any form of analysis is borderline speculative, however we still intent to try as we have found the results to fit very well with the material.
                     </p>
-                    <h3 class="center">Book</h3>
+                    <h4 class="center">Book</h4>
                     <p>
-
+                        This sentiment is calculated from the dialog from each movie. This was found to be the best indicator, through testing, as a book contains large amount of descriptive text.
+                    </p>
+                    <p>
+                        The graph nicely illustrates the how we experience the movies. The first is introduction to the wizarding universe from the view of an 11 year old. It is magical and fantastic, and danger is not really comprehensible. The stakes are higher in the second and third, where the danger becomes life threatening. In Goblet of Fire we are once again introduced to something magical and exciting. The fifth and sixth books both have both discouraging and encouraging plotlines running in the books narrative. And as expected the seventh and last book Voldemort sends the wizarding world into a downwards spiral, that Harry must save.
                     </p>
                     <div class="image-container">
                         <p>Sentiments by Book</p>
                         <img class="sent-image" src="plots/sentimants/sentBook.png" alt="sentiment">
                     </div>
+                    <h4 class="center">Chapters</h4>
+                    <p>
+                        The sentiment analysis of the book chapters are also based of the dialog. Here the overall development in sentiment is very linear. Keys events such as Dumbledore’s and the resurrection of Voldemort clearly identifiable, oddly enough this does not apply to the dead of Sirius. The second chapter in Goblet of Fire is entirely inner dialogue and description - aka. No dialog - and thus has a sentiment of zero.
+                    </p>
                     <div class="image-container">
                             <p>Sentiments by Chapter</p>
                         <img class="sent-image" src="plots/sentimants/sentChap.png" alt="sentiment">
                     </div>
+                    <h4 class="center">Movie-Scenes</h4>
+                    <p>
+                        The sentiment is calculated for a full scene, stage directions and all, as it was very hard to seperate the dialog, reasons are listed in the Notebook. The average sentiment of the movies are 0.5 below that of the books, which would be interesting to further investigate. The drop in Prisoner of Azkaban is due to a faulty scene. In Order of the Phoenix the sentiment is much lower towards the end of the movie possibly indicating that the movie has better conveyed the sad feeling of Harry because of Sirius’ murder. The death of Cedric and Dumbledore are however not very clearly identifiable. 
+                    </p>
                     <div class="image-container">
                             <p>Sentiments by Movie-Scenes</p>
                         <img class="sent-image" src="plots/sentimants/sentScenes.png" alt="sentiment">

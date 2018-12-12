@@ -312,3 +312,7 @@ h2 span { background:#313131; padding:0 10px; }
     height: auto;
     max-width: 800px
 }
+
+.title{
+    font-weight: bolder
+}
