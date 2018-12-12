@@ -276,3 +276,14 @@ body.dark{
     min-height: 33vh;
     width: auto;
 }
+
+p{
+    text-align: left;
+    font-size: 12px;
+    line-height: 12px;
+}
+
+section{
+    margin-left: 5px;
+    margin-right: 5px 
+}
